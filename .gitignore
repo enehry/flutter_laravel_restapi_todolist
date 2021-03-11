@@ -1,0 +1,64 @@
+
+#laravel
+
+todolistapi/node_modules
+todolistapi/public/hot
+todolistapi/public/storage
+todolistapi/storage/*.key
+todolistapi/vendor
+todolistapi/.env
+todolistapi/.env.backup
+todolistapi/.phpunit.result.cache
+todolistapi/todolistapi/docker-compose.override.yml
+todolistapi/Homestead.json
+todolistapi/Homestead.yaml
+todolistapi/npm-debug.log
+todolistapi/yarn-error.log
+
+#flutter
+# Miscellaneous
+todo_list/*.class
+todo_list/*.log
+todo_list/*.pyc
+todo_list/*.swp
+todo_list/.DS_Store
+todo_list/.atom/
+todo_list/.buildlog/
+todo_list/.history
+todo_list/.svn/
+
+# IntelliJ related
+todo_list/*.iml
+todo_list/*.ipr
+todo_list/*.iws
+todo_list/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+todo_list/**/doc/api/
+todo_list/**/ios/Flutter/.last_build_id
+todo_list/.dart_tool/
+todo_list/.flutter-plugins
+todo_list/.flutter-plugins-dependencies
+todo_list/.packages
+todo_list/.pub-cache/
+todo_list/.pub/
+todo_list/build/
+
+# Web related
+todo_list/todo_list/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+todo_list/todo_list/app.*.symbols
+
+# Obfuscation related
+todo_list/app.*.map.json
+
+# Android Studio will place build artifacts here
+todo_list/android/app/debug
+todo_list/android/app/profile
+todo_list/android/app/release
